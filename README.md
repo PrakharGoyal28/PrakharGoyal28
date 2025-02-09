@@ -2,13 +2,13 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhargoyal28&label=Profile%20views&color=0e75b6&style=flat" alt="prakhargoyal28" /> </p>
-- 👨🏼‍🎓 I'm a computer science graduate from IIT Jodhpur.
+
 
 - 🌱 I’m currently learning **Web3 and llms**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-- 📫 How to reach me **prakhar28goyal@gmail.com or b23es1025@iitj.ac.in**
+- 📫 How to reach me **prakhar28goyal@gmail.com/b23es1025@iitj.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
