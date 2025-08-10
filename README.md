@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-- 📫 How to reach me **prakhar28goyal@gmail.com/b23es1025@iitj.ac.in**
+- 📫 How to reach me **prakhar28goyal@gmail.com/b23cs1106@iitj.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
